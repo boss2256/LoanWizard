@@ -1,0 +1,5 @@
+python-telegram-bot==21.6
+httpx==0.27     # This is the only required dependency for networking in python-telegram-bot
+pandas==2.1.4
+joblib
+scikit-learn==1.4.2
